@@ -1,50 +1,84 @@
 # Privacy Policy for Ghost Bounce
 
-Last updated: December 2025
+**Last Updated:** May 2026
 
-Ghost Bounce is a free-to-play 2D arcade game developed by Dragoster Studio.
+Ghost Bounce is a free-to-play 2D arcade game developed by Dragoster Studio. This Privacy Policy explains how information is handled when using the app.
 
-## Information Collection and Use
+---
 
-Ghost Bounce does not collect, store, or share any personal information directly from users.
+## 1. Information We Collect
 
-However, the app uses third-party services that may collect information used to identify you.
+We do not require account creation or personal information to play the game.
 
-### Third-Party Services
+We do not directly collect or store personal data.
 
-The app uses the following third-party service:
+However, third-party services used in the app may automatically collect certain information.
 
-- Google AdMob (for displaying banner advertisements)
+---
 
-Google AdMob may collect:
-- Device identifiers (such as Advertising ID)
-- Approximate location
-- App usage data
+## 2. Advertisements
 
-More information about Google’s data practices can be found here:
-https://policies.google.com/technologies/partner-sites
+This app uses **Google AdMob** to display advertisements.
 
-## Internet Access
+AdMob may collect and process information such as:
 
-The app does not require internet access for gameplay.
-Internet access is only used for loading advertisements.
+- Device identifiers (such as Advertising ID)  
+- Approximate location  
+- Device information  
+- App usage data  
 
-## Children’s Information
+This data may be used to:
 
-Ghost Bounce is not specifically directed toward children under the age of 13.
-The developer does not knowingly collect any personal identifiable information from children.
+- Display advertisements  
+- Improve ad performance  
+- Prevent fraud and abuse  
 
-## Data Security
+Ads may be **personalized or non-personalized** depending on your device settings and region.
 
-The developer does not store any user data.
-All data handling is managed by third-party services in accordance with their privacy policies.
+You can control ad personalization through your device settings.
 
-## Changes to This Privacy Policy
+For more details, see Google’s Privacy Policy:  
+https://policies.google.com/privacy
+
+---
+
+## 3. Internet Access
+
+This app does not require internet access for core gameplay.
+
+Internet access is only used to load advertisements.
+
+---
+
+## 4. Children's Information
+
+This app is intended for a **general audience** and is not specifically directed to children under 13.
+
+We do not knowingly collect personal data from children.
+
+If you believe that a child has provided personal information, please contact us so we can take appropriate action.
+
+---
+
+## 5. Data Security
+
+We do not store personal data on our own servers.
+
+Third-party services may handle data securely according to their own privacy policies.
+
+---
+
+## 6. Changes to This Privacy Policy
 
 This Privacy Policy may be updated from time to time.
+
 Any changes will be posted on this page.
 
-## Contact Us
+---
 
-If you have any questions about this Privacy Policy, please contact:
-rajputvedant52@gmail.com
+## 7. Contact
+
+If you have any questions, contact:
+
+**Email:** rajputvedant52@gmail.com  
+**Instagram:** @DragosterStudios
